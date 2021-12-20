@@ -1,1 +1,1 @@
-# kdv_hesap_patika_-dev
+# kdv_hesap_patika_-ödev
